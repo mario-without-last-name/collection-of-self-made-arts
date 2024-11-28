@@ -6,6 +6,22 @@ All made by Mario.
 
 ---
 
+## Application and website designs
+
+![failed to load this project screenshot...](./figma_uiux.png)
+![failed to load this project screenshot...](./bike_ui_ux_website_design.png)
+![failed to load this project screenshot...](./digital_addiction_minimizer_ui-ux.png)
+![failed to load this project screenshot...](./genshin_impact_website_project.png)
+![failed to load this project screenshot...](./OMNI_ui-ux.png)
+![failed to load this project screenshot...](./pesan_id_mobile_ui-ux.png)
+![failed to load this project screenshot...](./PWNI_ui-ux.png)
+![failed to load this project screenshot...](./past_portfolio_1.png)
+![failed to load this project screenshot...](./past_portfolio_2.png)
+![failed to load this project screenshot...](./mountain_website.png)
+![failed to load this project screenshot...](./login_register.png)
+![failed to load this project screenshot...](./graveyard_website.png)
+![failed to load this project screenshot...](./ai_shirt.PNG)
+
 ## Youtube Thumbnails
 
 ![failed to load this project screenshot...](./youtube_thumbnail_1.png)
@@ -32,15 +48,6 @@ All made by Mario.
 ![failed to load this project screenshot...](./halloween_tickets.png)
 ![failed to load this project screenshot...](./student_council_ballot_papers.png)
 ![failed to load this project screenshot...](./super_hero_fun_run.png)
-
-## Application designs
-
-![failed to load this project screenshot...](./bike_ui_ux_website_design.png)
-![failed to load this project screenshot...](./digital_addiction_minimizer_ui-ux.png)
-![failed to load this project screenshot...](./genshin_impact_website_project.png)
-![failed to load this project screenshot...](./OMNI_ui-ux.png)
-![failed to load this project screenshot...](./pesan_id_mobile_ui-ux.png)
-![failed to load this project screenshot...](./PWNI_ui-ux.png)
 
 ## Miscellaneous 
 
