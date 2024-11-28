@@ -47,5 +47,4 @@ All made by Mario.
 ![failed to load this project screenshot...](./mekorama_digits_0_to_9.png)
 ![failed to load this project screenshot...](./mekorama_go_save_princess.png)
 ![failed to load this project screenshot...](./mekorama_rushhourx20.png)
-![failed to load this project screenshot...](.Screenrecorder-2019-10-09-14-43-01-907.mp4)
 ![failed to load this project screenshot...](./3d_voxel_design.png)
