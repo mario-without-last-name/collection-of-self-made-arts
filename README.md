@@ -6,4 +6,4 @@ All made by Mario.
 
 ---
 
-![screenshot of project](./3d voxel design.png)
+![screenshot of project](./3d_voxel_design.png)
