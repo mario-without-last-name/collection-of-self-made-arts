@@ -22,7 +22,7 @@ All made by Mario.
 ![failed to load this project screenshot...](./graveyard_website.png)
 ![failed to load this project screenshot...](./ai_shirt.PNG)
 
-## Youtube Thumbnails
+## Youtube Thumbnails and Overlays
 
 ![failed to load this project screenshot...](./youtube_thumbnail_1.png)
 ![failed to load this project screenshot...](./youtube_thumbnail_2.png)
@@ -30,6 +30,7 @@ All made by Mario.
 ![failed to load this project screenshot...](./youtube_thumbnail_4.png)
 ![failed to load this project screenshot...](./youtube_thumbnail_5.png)
 ![failed to load this project screenshot...](./youtube_thumbnail_6.png)
+![failed to load this project screenshot...](./youtube_overlay_1.png)
 
 ## High School Arts (as member of student council)
 
