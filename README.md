@@ -6,7 +6,7 @@ All made by Mario.
 
 ---
 
-## Application and website designs
+# Application and website designs
 
 ![failed to load this project screenshot...](./figma_uiux.png)
 ![failed to load this project screenshot...](./bike_ui_ux_website_design.png)
@@ -22,7 +22,11 @@ All made by Mario.
 ![failed to load this project screenshot...](./graveyard_website.png)
 ![failed to load this project screenshot...](./ai_shirt.PNG)
 
-## Youtube Thumbnails and Overlays
+
+
+
+
+# Youtube Thumbnails and Overlays
 
 ![failed to load this project screenshot...](./youtube_thumbnail_1.png)
 ![failed to load this project screenshot...](./youtube_thumbnail_2.png)
@@ -32,7 +36,11 @@ All made by Mario.
 ![failed to load this project screenshot...](./youtube_thumbnail_6.png)
 ![failed to load this project screenshot...](./youtube_overlay_1.png)
 
-## High School Arts (as member of student council)
+
+
+
+
+# High School Arts (as member of student council)
 
 ![failed to load this project screenshot...](./btb_spotlight_cover_design_1.png)
 ![failed to load this project screenshot...](./btb_spotlight_cover_design_2.png)
@@ -50,7 +58,24 @@ All made by Mario.
 ![failed to load this project screenshot...](./student_council_ballot_papers.png)
 ![failed to load this project screenshot...](./super_hero_fun_run.png)
 
-## Miscellaneous 
+
+
+
+
+# Business Posters and Brochures
+
+![failed to load this project screenshot...](./Circle_Logo.png)
+![failed to load this project screenshot...](./G_smaller.jpg)
+![failed to load this project screenshot...](./H_smaller.jpg)
+![failed to load this project screenshot...](./Halaman_1_smaller.jpg)
+![failed to load this project screenshot...](./Halaman_2_smaller.jpg)
+![failed to load this project screenshot...](./Halaman_3_smaller.jpg)
+
+
+
+
+
+# Miscellaneous 
 
 ![failed to load this project screenshot...](./mekorama_digits_0_to_9.png)
 ![failed to load this project screenshot...](./mekorama_go_save_princess.png)
